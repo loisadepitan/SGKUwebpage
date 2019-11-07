@@ -1,0 +1,112 @@
+body{
+font-family: 'Lato', sans-serif;
+
+}
+
+.menu{
+    background:#a70303;
+    font-size: 18px;
+    list-style-type: none;
+    height: 60px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.menu li {
+    display: inline-block;
+    background: #a70303;
+    width: 200px;
+    padding: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.menu li a{
+    text-decoration: none;
+    text-align: center;
+    margin: 0px;
+    color: white;
+    padding: 5px;
+}
+
+ .menu li a:hover{
+    color:black;  
+}
+
+.students{
+    margin-left: 40%;
+}
+
+ .students li{
+    background: #d8d8d8;
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+    padding: 8px;
+    width: 300px;
+    font-size: 18px;
+    color: black;
+    list-style-image: url(Monitor.png);
+}
+
+ .students li:hover{
+    font-size: 20px;
+    color: #a70303;
+    transform: rotate(10deg);
+}
+
+ h1{
+     font-size: 30px;
+     text-align: center;
+     background: #ffcd27;
+     color: black;
+     height: 80px;
+     padding: 20px;
+     margin-bottom: 0px;
+ }
+ 
+ 
+ h2{
+     margin-left: 40%;
+     text-align: left;
+     background: black;
+     color: white;
+     height: 30px;
+     font-size: 20px;
+     width: 20%;
+     padding: 3px;
+ }
+
+ .square{
+     background: white;
+     border: 1px solid black;
+     width: 50%;
+     margin-left: 25%;
+     border-radius: 8px;
+     padding: 10px
+ }
+
+    
+
+
+ .footer{
+     position: fixed;
+     bottom: 0;
+     background: black;
+     color: white;
+     font-size: 14px;
+     height: 30px;
+     width: 100%;
+     text-align: center;
+ }
+
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+ 
+    
+
+
+
