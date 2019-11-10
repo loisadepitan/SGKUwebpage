@@ -46,12 +46,13 @@ font-family: 'Lato', sans-serif;
     font-size: 18px;
     color: black;
     list-style-image: url(Monitor.png);
+   
 }
 
  .students li:hover{
     font-size: 20px;
     color: #a70303;
-    transform: rotate(10deg);
+    transform: rotate(5deg);
 }
 
  h1{
@@ -66,14 +67,15 @@ font-family: 'Lato', sans-serif;
  
  
  h2{
-     margin-left: 40%;
-     text-align: left;
+    
+    margin-left: 40%;
+     text-align: center;
      background: black;
      color: white;
      height: 30px;
      font-size: 20px;
-     width: 20%;
-     padding: 3px;
+     width: 25%;
+     padding: 5px;
  }
 
  .square{
@@ -94,7 +96,7 @@ font-family: 'Lato', sans-serif;
      background: black;
      color: white;
      font-size: 14px;
-     height: 30px;
+     height: 20px;
      width: 100%;
      text-align: center;
  }
